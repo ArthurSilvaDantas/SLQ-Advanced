@@ -1,6 +1,6 @@
-# 🛒 CRUD Compras - API REST
+# 🛒 CRUD Compras + SQL Advanced
 
-API REST completa para gerenciamento de compras com relacionamento entre Usuários, Produtos e Pedidos.
+Aplicação servidora com operações CRUD para um sistema de compras, na qual foram utilizadas operações de indexação, triggers, views e procedures. O foco deste repositório está justamente nessas operações de SQL avançadas.
 
 ---
 
